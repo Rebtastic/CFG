@@ -1,0 +1,42 @@
+.h1{
+    color: whitesmoke;
+    background-color: rgb(63, 47, 41);
+    font-family: "Reddit Sans Condensed", sans-serif;
+    font-optical-sizing: auto;
+    font-style: normal;
+}
+
+.h1Page2{
+    color: whitesmoke;
+    background-color: rgb(63, 47, 41);
+    font-family: "Reddit Sans Condensed", sans-serif;
+    font-optical-sizing: auto;
+    font-style: normal;
+    text-align: center;
+    height: 200px;
+}
+.ul1 {
+    list-style-type: none;
+    text-decoration: none;
+      }
+
+main {
+    background-color: rgb(63, 47, 41);
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 19%;
+  }
+
+footer{
+    color: whitesmoke;
+    background-color: rgb(63, 47, 41);
+    font-size: 50px;
+    font-family: "Reddit Sans Condensed", sans-serif;
+    font-optical-sizing: auto;
+    font-style: normal;
+text-align: center;
+}
